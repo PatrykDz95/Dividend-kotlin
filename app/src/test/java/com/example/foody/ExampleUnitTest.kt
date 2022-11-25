@@ -1,4 +1,4 @@
-package com.example.dividends
+package com.example.foody
 
 import org.junit.Test
 
